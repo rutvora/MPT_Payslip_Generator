@@ -1,0 +1,172 @@
+
+**** Error file opened at 20180703 124610 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Tue Jul 03 12:46:10,038<    >RfcGetException rc (7) message: Name or password is incorrect (repeat logon)
+<RfcGetException
+
+
+
+**** Error file opened at 20180703 144609 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Tue Jul 03 14:46:09,837<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180703 152220 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Tue Jul 03 15:22:20,306<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180703 155836 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Tue Jul 03 15:58:36,440<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180704 111627 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Wed Jul 04 11:16:27,642<    RfcException:
+	message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS_WITHOUT_POOL ASHOST=172.24.24.72 SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.24.24.72:3300' not reached
+TIME        Wed Jul  4 11:16:27 2018
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nibuf.cpp
+LINE        4658
+DETAIL      NiBufIConnect: connection pending after 60000ms
+SYSTEM CALL connect
+ERRNO       115
+ERRNO TEXT  Operation now in progress
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20180704 200408 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Wed Jul 04 20:04:08,120<    RfcException:
+	message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS_WITHOUT_POOL ASHOST=172.24.24.72 SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.24.24.72:3300' not reached
+TIME        Wed Jul  4 20:04:08 2018
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        2902
+DETAIL      NiPConnect: 172.24.24.72:3300
+SYSTEM CALL connect
+ERRNO       101
+ERRNO TEXT  Network is unreachable
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20180704 201812 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Wed Jul 04 20:18:12,882<    RfcException:
+	message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS_WITHOUT_POOL ASHOST=172.24.24.72 SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.24.24.72:3300' not reached
+TIME        Wed Jul  4 20:18:12 2018
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nibuf.cpp
+LINE        4658
+DETAIL      NiBufIConnect: connection pending after 60000ms
+SYSTEM CALL connect
+ERRNO       115
+ERRNO TEXT  Operation now in progress
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20180706 130506 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Fri Jul 06 13:05:06,097<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180706 131024 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Fri Jul 06 13:10:24,857<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180706 131158 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Fri Jul 06 13:11:58,443<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180706 132608 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Fri Jul 06 13:26:08,367<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180706 152440 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Fri Jul 06 15:24:40,453<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180706 152741 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Fri Jul 06 15:27:41,539<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180706 160548 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Fri Jul 06 16:05:48,240<    >RfcGetException rc (7) message: Syntax error in program SAPLZBITS_PENSION_APP                   .
+<RfcGetException
+
+
+
+**** Error file opened at 20180706 165244 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Fri Jul 06 16:52:44,219<    >RfcGetException rc (7) message: Function module "BAPI_GET_PAYSLIP_PDF" cannot be used for 'remote' calls.
+<RfcGetException
+
+
+
+**** Error file opened at 20180706 172108 India Standard Time Rel. 3.0.18 (2018-03-23) [721.1016]
+Error:  >Fri Jul 06 17:21:08,313<    RfcException:
+	message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS_WITHOUT_POOL ASHOST=172.24.24.72 SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.24.24.72:3300' not reached
+TIME        Fri Jul  6 17:21:08 2018
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nibuf.cpp
+LINE        4658
+DETAIL      NiBufIConnect: connection pending after 60000ms
+SYSTEM CALL connect
+ERRNO       115
+ERRNO TEXT  Operation now in progress
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
